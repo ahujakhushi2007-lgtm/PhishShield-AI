@@ -199,3 +199,4 @@ Evaluated against **35 Curated Test Cases** spanning URLs, SMS, Hinglish/Hindi t
 - **Zero Telemetry**: User inputs, links, and messages are processed strictly in-memory and never stored on remote servers.
 - **Local Browser Storage**: Audit trails and history remain isolated in the user's browser `localStorage`.
 - **National Helpline Integration**: Direct integration with India's National Cyber Crime Helpline (**1930**), `cybercrime.gov.in`, and `sancharsaathi.gov.in`.
+

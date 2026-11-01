@@ -52,3 +52,4 @@ document.addEventListener("DOMContentLoaded", async () => {
     explanationText.textContent = data.explanation || "Scan completed.";
   }
 });
+

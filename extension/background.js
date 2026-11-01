@@ -46,3 +46,4 @@ chrome.contextMenus.onClicked.addListener(async (info, tab) => {
     console.error("PhishShield scan error:", err);
   }
 });
+
